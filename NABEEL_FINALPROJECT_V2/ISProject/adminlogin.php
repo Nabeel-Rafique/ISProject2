@@ -90,7 +90,7 @@
 
 
                         <br>
-
+                        <div class="link forget-pass text-center"> Sign Up As an Admin?<a href="adminsignup.php"> <br>Click here</a></div>
                         <div class="link login-link text-center">Not yet a member? Contact Administration</a></div>
                         <br>
                     </form>
